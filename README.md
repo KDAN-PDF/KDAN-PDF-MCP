@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kdan-pdf-kdan-pdf-mcp-badge.png)](https://mseep.ai/app/kdan-pdf-kdan-pdf-mcp)
+
 [![Free & Unlimited](https://img.shields.io/badge/Free%20%26%20Unlimited-16a34a)](https://pdf-reader.kdandoc.com/products/mcp/claude)
 [![MCP Connector](https://img.shields.io/badge/MCP-Connector-d4332f)](https://github.com/KDAN-PDF/KDAN-PDF-MCP)
 [![Works with Claude](https://img.shields.io/badge/Works%20with-Claude-111418)](https://claude.ai/customize/connectors)
