@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.kdandoc.mcp/kdan-pdf-mcp",
+  "title": "KDAN PDF",
+  "description": "Upload, edit, compress, protect, redact, and compare PDFs with KDAN PDF in Claude and ChatGPT.",
+  "repository": {
+    "url": "https://github.com/KDAN-PDF/KDAN-PDF-MCP",
+    "source": "github"
+  },
+  "websiteUrl": "https://pdf-reader.kdandoc.com/products/mcp/claude",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.kdandoc.com/mcp"
+    }
+  ]
+}
