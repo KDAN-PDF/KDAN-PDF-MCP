@@ -77,7 +77,7 @@ Once connected, just tell Claude what you want — for example: *"Help me compre
 May require a paid plan.
 
 1. Go to [chatgpt.com](https://chatgpt.com), click your account icon → **Settings**
-2. Select **Connectors** → **Add Connector**
+2. Select **Plugins** → **Add New Plugin**
 3. Paste the following URL:
 
 ```
