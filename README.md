@@ -151,9 +151,9 @@ The same connector fits seven everyday workflows:
 
 ## Prompt Pack & resources
 
-- [User Guide](https://pdf-reader.kdandoc.com/products/mcp/claude-user-guide) — step-by-step setup walkthrough.
-- [Prompt Pack](https://pdf-reader.kdandoc.com/products/mcp/claude-prompt-pack) — 24 ready-to-use prompts across 6 categories (Translate, Compare, Remove Pages, Encrypt, Redact, Compress).
-- [Product page](https://pdf-reader.kdandoc.com/products/mcp/claude)
+- [User Guide](https://pdf-reader.kdandoc.com/products/mcp/claude-user-guide?utm_source=GitHub&utm_campaign=GitHub_Repo_PDFMCP_pdfmcp_userguide&utm_medium=Repo) — step-by-step setup walkthrough.
+- [Prompt Pack](https://pdf-reader.kdandoc.com/products/mcp/claude-prompt-pack?utm_source=GitHub&utm_campaign=GitHub_Repo_PDFMCP_pdfmcp_promptpack&utm_medium=Repo) — 24 ready-to-use prompts across 6 categories (Translate, Compare, Remove Pages, Encrypt, Redact, Compress).
+- [Product page](https://pdf-reader.kdandoc.com/products/mcp/claude?utm_source=GitHub&utm_campaign=GitHub_Repo_PDFMCP_kdanpdfmcp&utm_medium=Repo)
 
 ## Privacy & security
 
@@ -197,5 +197,5 @@ KDAN PDF MCP applies **true PDF redaction** — targeted content is permanently 
 
 ## Support & feedback
 
-- Product page & updates: [pdf-reader.kdandoc.com](https://pdf-reader.kdandoc.com)
+- [Product page](https://pdf-reader.kdandoc.com/products/mcp/claude?utm_source=GitHub&utm_campaign=GitHub_Repo_PDFMCP_kdanpdfmcp&utm_medium=Repo) & updates: [pdf-reader.kdandoc.com](https://pdf-reader.kdandoc.com)
 - Questions or issues: open an [issue on GitHub](https://github.com/KDAN-PDF/KDAN-PDF-MCP/issues).
